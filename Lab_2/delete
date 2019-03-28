@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+
+int main(){
+
+int x, y, *px, *py;
+
+int arr[10];
+
+//Q4
+px = &x;
+printf("%d\n", px);
+
+return 0;
+
+
+
+
+}
